@@ -74,6 +74,6 @@ The third page of the module allows users to convert the currencies of their cho
 ### Contact
 <li> Akshay Patel   (21BCE515@nirmauni.ac.in) </li>
 <li> Prince Patel   (20BCE216@nirmauni.ac.in) </li>
-<li> Jwal Shah      (20BCE115@nirmauni.ac.in) </li>
+<li> Jwal Shah      (20BCE114@nirmauni.ac.in) </li>
 <li> Dhruv Dholariya (20BEC024@nirmauni.ac.in)</li>
 <li> Smiti Kothari   (20BCE280@nirmauni.ac.in)</li>
